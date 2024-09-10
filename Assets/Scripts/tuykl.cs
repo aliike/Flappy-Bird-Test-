@@ -13,6 +13,6 @@ public class tuykl : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
-    }
+        asdasdsada
+    }asd
 }
