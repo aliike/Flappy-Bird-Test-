@@ -122,6 +122,7 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+<<<<<<< HEAD
 --- !u!1 &360165683
 GameObject:
   m_ObjectHideFlags: 0
@@ -206,6 +207,8 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+=======
+>>>>>>> parent of 9f2dda1 (Update SampleScene.unity)
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
@@ -609,12 +612,17 @@ Transform:
   m_GameObject: {fileID: 1474426971}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+<<<<<<< HEAD
   m_LocalPosition: {x: -0.96, y: 2.33, z: 0}
+=======
+  m_LocalPosition: {x: 0.66, y: 1.5, z: 0}
+>>>>>>> parent of 9f2dda1 (Update SampleScene.unity)
   m_LocalScale: {x: 1.8082, y: 1.4352, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 --- !u!1 &1847599387
@@ -773,12 +781,15 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+=======
+>>>>>>> parent of 9f2dda1 (Update SampleScene.unity)
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
   m_Roots:
   - {fileID: 519420032}
   - {fileID: 1474426973}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
   - {fileID: 360165685}
@@ -798,3 +809,5 @@ SceneRoots:
 =======
 >>>>>>> 54faf7197a05f716a45440de367524c8e21a8487
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 9f2dda1 (Update SampleScene.unity)
